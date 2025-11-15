@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as d,ae as r}from"./chunks/framework.U1Gow_7P.js";const m=JSON.parse('{"title":"赞助列表","description":"","frontmatter":{},"headers":[],"relativePath":"赞助列表.md","filePath":"赞助列表.md"}'),o={name:"赞助列表.md"};function _(n,t,s,h,i,l){return d(),a("div",null,t[0]||(t[0]=[r("",3)]))}const p=e(o,[["render",_]]);export{m as __pageData,p as default};
